@@ -19,14 +19,6 @@ The project uses multi-spectral Landsat satellite imagery and deep learning (U-N
 - Project Report.pdf
   Detailed academic report covering methodology, results, and analysis  
 
-- Images/  
-  Contains generated visual outputs:
-  - True Color composites and NDVI maps  
-  - Train/validation/test splits  
-  - ROC curves and confusion matrix  
-  - F1 score and IoU comparisons  
-  - Sample predictions (input vs ground truth vs output)  
-
 ---
 
 ## Dataset
