@@ -8,7 +8,7 @@ The project uses multi-spectral Landsat satellite imagery and deep learning (U-N
 
 ## Repository Structure
 
-- Final DAT-103.ipynb  
+- Final DAT-103 (1).ipynb  
   Main Kaggle notebook containing the complete pipeline:
   - USGS M2M API data fetching  
   - Preprocessing  
@@ -16,7 +16,7 @@ The project uses multi-spectral Landsat satellite imagery and deep learning (U-N
   - Test-time augmentation inference  
   - Metric evaluation  
 
-- Project Report.docx  
+- Project Report.pdf
   Detailed academic report covering methodology, results, and analysis  
 
 - Images/  
